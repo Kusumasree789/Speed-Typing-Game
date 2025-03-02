@@ -42,6 +42,3 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 3. Make the necessary changes.
 4. Commit your changes.
 5. Push to your forked repository.
-
-## License
-This project is licensed under the MIT License.
